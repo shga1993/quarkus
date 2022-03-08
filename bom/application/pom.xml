@@ -81,7 +81,7 @@
         <maven-plugin-annotations.version>3.6.0</maven-plugin-annotations.version>
         <plexus-component-annotations.version>2.1.0</plexus-component-annotations.version>
         <!-- What we actually depend on for the annotations, as latest Graal is not available in Maven fast enough: -->
-        <graal-sdk.version>20.2.0</graal-sdk.version>
+        <graal-sdk.version>20.3.5</graal-sdk.version>
         <gizmo.version>1.0.6.Final</gizmo.version>
         <jackson.version>2.11.3</jackson.version>
         <commons-logging-jboss-logging.version>1.0.0.Final</commons-logging-jboss-logging.version>
@@ -92,7 +92,7 @@
         <hibernate-orm.version>5.4.25.Final</hibernate-orm.version>
         <hibernate-reactive.version>1.0.0.Beta1</hibernate-reactive.version>
         <hibernate-validator.version>6.1.6.Final</hibernate-validator.version>
-        <hibernate-search.version>6.0.0.CR2</hibernate-search.version>
+        <hibernate-search.version>6.1.0.Final</hibernate-search.version>
         <narayana.version>5.10.6.Final</narayana.version>
         <jboss-transaction-api_1.2_spec.version>1.1.1.Final</jboss-transaction-api_1.2_spec.version>
         <agroal.version>1.9</agroal.version>
