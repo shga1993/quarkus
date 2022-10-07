@@ -51,7 +51,7 @@
         <jakarta.json.version>1.1.6</jakarta.json.version>
         <mutiny.version>0.10.1</mutiny.version>
         <smallrye-common-annotation.version>1.5.0</smallrye-common-annotation.version>
-        <vertx.version>3.9.3</vertx.version>
+        <vertx.version>4.1.8</vertx.version>
     </properties>
 
     <modules>
