@@ -27,11 +27,11 @@
         <eclipse-minimal-json.version>0.9.5</eclipse-minimal-json.version>
         <jboss-logging.version>3.3.2.Final</jboss-logging.version>
         <junit.jupiter.version>5.7.0</junit.jupiter.version>
-        <maven-core.version>3.6.3</maven-core.version><!-- Keep in sync with sisu.version -->
+        <maven-core.version>3.8.2</maven-core.version><!-- Keep in sync with sisu.version -->
         <sisu.version>0.3.4</sisu.version><!-- Keep in sync with maven-core.version -->
         <maven-plugin-annotations.version>3.6.0</maven-plugin-annotations.version>
         <maven-resolver.version>1.4.1</maven-resolver.version>
-        <maven-wagon.version>3.3.4</maven-wagon.version>
+        <maven-wagon.version>3.5.1</maven-wagon.version>
         <plexus-cypher.version>1.7</plexus-cypher.version>
         <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
         <commons-logging-jboss-logging.version>1.0.0.Final</commons-logging-jboss-logging.version>
