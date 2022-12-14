@@ -196,7 +196,7 @@
         <!-- Make sure to check compatibility between these 2 gRPC components before upgrade -->
         <grpc.version>1.32.1</grpc.version>
         <grpc-jprotoc.version>1.0.1</grpc-jprotoc.version>
-        <protobuf-java.version>3.13.0</protobuf-java.version>
+        <protobuf-java.version>3.16.3</protobuf-java.version>
         <protoc.version>3.13.0</protoc.version>
 
         <picocli.version>4.5.2</picocli.version>
