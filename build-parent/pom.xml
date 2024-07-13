@@ -94,7 +94,7 @@
         <wiremock-maven-plugin.version>6.0.0</wiremock-maven-plugin.version>
 
         <!-- Code Coverage Properties-->
-        <jacoco.agent.argLine></jacoco.agent.argLine>
+        <jacoco.agent.argLine/>
         <jacoco.version>0.8.5</jacoco.version>
 
         <maven-dependency-plugin.version>3.1.2</maven-dependency-plugin.version>
@@ -106,7 +106,7 @@
         <boring-ssl.version>2.0.30.Final</boring-ssl.version>
 
         <!-- Used for integration tests, to make sure webjars work-->
-        <bootstrap.version>3.1.0</bootstrap.version>
+        <bootstrap.version>5.3.3</bootstrap.version>
 
         <!-- revapi API check -->
         <revapi-maven-plugin.version>0.12.1</revapi-maven-plugin.version>
@@ -743,7 +743,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                         <pluginExecution>
@@ -762,7 +762,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                         <pluginExecution>
@@ -781,7 +781,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                         <pluginExecution>
@@ -800,7 +800,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                         <pluginExecution>
@@ -817,7 +817,7 @@
                                                 </goals>
                                             </pluginExecutionFilter>
                                             <action>
-                                                <ignore></ignore>
+                                                <ignore/>
                                             </action>
                                         </pluginExecution>
                                     </pluginExecutions>
